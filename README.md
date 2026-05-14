@@ -1,4 +1,4 @@
-# FIT4012 - Lab 5: AES-128 (Ngô Văn Hiếu - 1871020234)
+# FIT4012 - Lab 5: AES-128 (Vũ Đức Sơn - 1871020507)
 
 ## 1. Cấu trúc repo
 Dự án được tổ chức theo cấu trúc chuẩn của FIT4012 bao gồm các thành phần mã nguồn, kịch bản kiểm thử và tài liệu hướng dẫn.
