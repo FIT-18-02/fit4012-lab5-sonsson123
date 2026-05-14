@@ -2,8 +2,8 @@
 
 ## Student Information
 
-- Full Name: Ngô Văn Hiếu
-- Student ID:1871020234
+- Full Name: Vũ Đức Sơn
+- Student ID:1871020507
 
 ---
 
